@@ -1,3 +1,15 @@
+@font-face {
+	font-family: Barlow;
+	src: url("../fonts/Barlow-Regular.ttf");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: Barlow;
+	src: url("../fonts/Barlow-Bold.ttf");
+	font-weight: bold;
+}
+
 html,
 body {
 	width: 100%;
