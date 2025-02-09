@@ -33,7 +33,7 @@ export default function RootLayout({
         <main>{children}</main>
         <footer className="bg-gray-800 text-white py-8">
           <div className="container mx-auto text-center">
-            <p>&copy; 2024 Maor Hassid</p>
+            <p>&copy; 2025 Maor Hassid</p>
           </div>
         </footer>
       </body>

@@ -71,12 +71,6 @@ export default function Home() {
     }
   ];
 
-  // const handleSubmit = (e: React.FormEvent) => {
-  //   e.preventDefault();
-  //   console.log(formData);
-  //   alert('Message sent!');
-  // };
-
   const [state, handleSubmit] = useForm("meoezvoy");
 
   return (
